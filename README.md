@@ -1,3 +1,3 @@
 # Sequential-Nerual-Network
 
-Machine Learning Project from UC Davis MSBA, 2021-2022
+Sudent Project for UC Davis MSBA, 2021-2022
